@@ -1,3 +1,3 @@
 <?php
+echo "posheen index cat";
 
-echo "posheen index";
